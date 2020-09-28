@@ -1,4 +1,4 @@
-# Ecoleta App
+# Twitch TV (clone)
 
 Clone do app da plataforma de streaming Twitch TV (estático.)
 
